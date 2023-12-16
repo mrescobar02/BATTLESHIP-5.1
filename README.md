@@ -1,5 +1,4 @@
-# BATTLESHIP-5.1
-# Battleship Game - Semester Project 2021
+# Battleship Game - University Project 2021
 
 A simple battleship game developed as an university project in C.
 
