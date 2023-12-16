@@ -4,7 +4,7 @@ A simple battleship game developed as an university project in C.
 
 ## Project Status
 
-This project is a part of our semester coursework and is currently in development.
+This project, which was part of our semester coursework, has been completed, and though finalized, there are plans for future optimization.
 
 
 ## Requirements
